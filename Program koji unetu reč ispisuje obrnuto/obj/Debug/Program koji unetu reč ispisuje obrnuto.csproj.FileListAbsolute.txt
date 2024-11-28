@@ -1,0 +1,7 @@
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\bin\Debug\Program koji unetu reč ispisuje obrnuto.exe.config
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\bin\Debug\Program koji unetu reč ispisuje obrnuto.exe
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\bin\Debug\Program koji unetu reč ispisuje obrnuto.pdb
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\obj\Debug\Program koji unetu reč ispisuje obrnuto.csproj.AssemblyReference.cache
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\obj\Debug\Program koji unetu reč ispisuje obrnuto.csproj.CoreCompileInputs.cache
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\obj\Debug\Program koji unetu reč ispisuje obrnuto.exe
+F:\Program koji unetu reč ispisuje obrnuto\Program koji unetu reč ispisuje obrnuto\obj\Debug\Program koji unetu reč ispisuje obrnuto.pdb
